@@ -1,2 +1,3 @@
-# TestGitHub
-Study how to use GitHub
+# Vinson
+This repository is usesd to study how to use GitHub.
+O(กษ_กษ)Oนþนþ~
