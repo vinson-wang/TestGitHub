@@ -1,28 +1,6 @@
-Vinson 
 
-Study GitHub!
+# Vinson
 
-
-Hello
-Hello
-
-Hello
-
-Hello
-
-Hello
-
-Hello
-
-  
-
-
-  
-
-
-
-
-
-
+This repository is usesd to study how to use GitHub.^_^
 
 
