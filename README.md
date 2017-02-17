@@ -1,6 +1,6 @@
 
-# Vinson
+# Hello
 
-This repository is usesd to study how to use GitHub.^_^
+This repository is used to study how to use GitHub.
 
 
